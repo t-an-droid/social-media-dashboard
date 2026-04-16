@@ -4,18 +4,6 @@ A responsive, data-driven analytics dashboard built with **React** and **Rechart
 
 ---
 
-## 🚀 Live Demo
-
-> *(Add your deployment link here — Vercel / Netlify / GitHub Pages)*
-
----
-
-## 🖼️ Screenshots
-
-> *(Add screenshots here after deployment — they go a long way!)*
-
----
-
 ## ✨ Features
 
 - **KPI Metric Cards** — At-a-glance stats for Total Followers, Engagement Rate, Total Posts, and Average Likes, each with a positive/negative percentage change indicator
@@ -149,13 +137,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
----
 
 > *Built with ❤️ using React and Recharts*
